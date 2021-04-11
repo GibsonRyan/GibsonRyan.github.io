@@ -1,2 +1,13 @@
-desktop.ini
-thumbs.db
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# VS Code
+.vs
+.vscode
+
+# Webstorm
+.idea
